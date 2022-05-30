@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev src/loopForNumber.ts",
-    "compile": "npx tsc -w src/numerosPrimos/encontrarNumerosPrimos.ts",
-    "start": "nodemon src/numerosPrimos/encontrarNumerosPrimos.js"
+    "compile": "npx tsc -w src/hackerRank/fizzBuzz.ts",
+    "start": "nodemon src/hackerRank/fizzBuzz.js"
   },
   "keywords": [
     "estudar",
